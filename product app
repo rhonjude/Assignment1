@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+     <tr>
+         <td>Product code</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>Product name</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>Retail price</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>Selling price</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>distributor name</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>Manufacturer name</td>
+         <td><input type="text" class="form-control"></td>
+     </tr>
+     <tr>
+         <td>expiry date</td>
+         <td><input type="date" class="form-control"></td>
+     </tr>
+     <tr>
+         <td></td>
+         <td>button <button class="btn-warning"></button></td>
+     </tr>
+    </table>
+</body>
+</html>
