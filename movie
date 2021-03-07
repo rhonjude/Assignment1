@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>Distributor</td>
-            <td><input type="text" class="form-">control</td>
+            <td><input type="text" class="form-control"></td>
         </tr><tr>
             <td>Year of release</td>
             <td><input type="text" class="form-control"></td>
